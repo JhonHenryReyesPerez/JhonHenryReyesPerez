@@ -61,12 +61,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonHenryReyesPerez&theme=tokyonight&utcOffset=-5" />
 </p>
 
+## *PROYECTOS🔥*
+
 <h3 align="center">🐍 Proyecto en Python</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonHenryReyesPerez&repo=Proyecto_Python_ReyesJhon&theme=tokyonight&cache_seconds=1800" />
+  <a href="https://github.com/JhonHenryReyesPerez/Proyecto_Python_ReyesJhon">
+    <img src="https://img.shields.io/badge/Proyecto_Python_ReyesJhon-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
-
 
 
 Ultima edición: 07/02/2026
