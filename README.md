@@ -66,6 +66,15 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 <p align="center">
   Proyecto enfocado en practicar lógica, estructuras básicas y fundamentos de Python.
 </p>
+<h3 align="center">🎵 Proyecto HTML & CSS</h3>
+<p align="center">
+  <a href="https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds">
+    <img src="https://img.shields.io/badge/los--psicoactivos--sounds-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  Maquetación de tienda de música con diseño <b>responsive</b>, sistema de álbumes y reproductor de audio, carrito de compras, success y mas.
+</p>
 
 
 
@@ -88,5 +97,5 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=JhonHenryReyesPerez&color=blue)
 
-Última edición: 07/02/2026
+Última edición: 22/03/2026
 
