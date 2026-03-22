@@ -42,14 +42,14 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 
 <h3 align="center">Tecnologías que conozco 👨🏻‍💻</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,discord,github,py,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,github,py,vscode,windows,linux" />
 </p>
 
 
 
 <h3 align="center">En aprendizaje activo 🎇</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react" />
 </p>
 
 ---
