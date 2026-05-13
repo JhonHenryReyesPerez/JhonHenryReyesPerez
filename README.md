@@ -41,14 +41,14 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 
 <h3 align="center">Tecnologías que conozco 👨🏻‍💻</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,github,py,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,github,py,vscode,linux,mysql" />
 </p>
 
 
 
 <h3 align="center">En aprendizaje activo 🎇</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,java,cpp,c" />
 </p>
 
 ---
@@ -65,14 +65,31 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 <p align="center">
   Proyecto enfocado en practicar lógica, estructuras básicas y fundamentos de Python.
 </p>
+
 <h3 align="center">🎵 Proyecto HTML & CSS</h3>
 <p align="center">
-  <a href="https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds">
-    <img src="https://img.shields.io/badge/los--psicoactivos--sounds-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
+  <a href="https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds">
+    <img src="https://img.shields.io/badge/Código-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub" />
+  </a>
+  <a href="https://musicstream-jhon.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Ver_Deploy-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Deploy" />
+  </a>
 </p>
 <p align="center">
-  Maquetación de tienda de música con diseño <b>responsive</b>, sistema de álbumes y reproductor de audio, carrito de compras, success y mas.
+  Maquetación de tienda de música con diseño <b>responsive</b>, sistema de álbumes y reproductor de audio, carrito de compras, success y más.
+</p>
+
+<h3 align="center">⚡ Proyecto en JavaScript</h3>
+<p align="center">
+  <a href="https://github.com/JhonHenryReyesPerez/Proyecto-JS">
+    <img src="https://img.shields.io/badge/Código-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub" />
+  </a>
+  <a href="https://proyecto-js-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Ver_Deploy-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Deploy" />
+  </a>
+</p>
+<p align="center">
+plataforma web moderna diseñada para la gestión integral de proyectos de construcción. Ofrece una interfaz intuitiva y potentes herramientas para el seguimiento de personal, hitos, actividades y cronogramas, todo bajo un diseño estético y funcional basado en Glassmorphism.
 </p>
 
 
@@ -96,5 +113,5 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=JhonHenryReyesPerez&color=blue)
 
-Última edición: 22/03/2026
+Última edición: 12/05/2026
 
