@@ -41,9 +41,16 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 
 <h3 align="center">Tecnologías que conozco 👨🏻‍💻</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,github,py,vscode,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,docker,linux,mysql,py,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=for-the-badge" />
+</p>
 
 
 <h3 align="center">En aprendizaje activo 🎇</h3>
@@ -65,7 +72,7 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 <p align="center">
   Proyecto enfocado en practicar lógica, estructuras básicas y fundamentos de Python.
 </p>
-
+<hr>
 <h3 align="center">🎵 Proyecto HTML & CSS</h3>
 <p align="center">
   <a href="https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds">
@@ -78,7 +85,7 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 <p align="center">
   Maquetación de tienda de música con diseño <b>responsive</b>, sistema de álbumes y reproductor de audio, carrito de compras, success y más.
 </p>
-
+<hr>
 <h3 align="center">⚡ Proyecto en JavaScript</h3>
 <p align="center">
   <a href="https://github.com/JhonHenryReyesPerez/Proyecto-JS">
@@ -92,7 +99,74 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 plataforma web moderna diseñada para la gestión integral de proyectos de construcción. Ofrece una interfaz intuitiva y potentes herramientas para el seguimiento de personal, hitos, actividades y cronogramas, todo bajo un diseño estético y funcional basado en Glassmorphism.
 </p>
 
+<hr>
 
+<h3 align="center">🏆 SmartCity Fix - Plataforma Inteligente de Reportes Ciudadanos</h3>
+
+<p align="center">
+  <a href="https://github.com/SebbsAL/Proyecto-N8N.git">
+    <img src="https://img.shields.io/badge/Código-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub" />
+</p>
+
+<p align="center">
+Plataforma inteligente desarrollada durante una hackathon para el reporte, clasificación y seguimiento de incidentes urbanos. El sistema integra automatización con n8n, inteligencia artificial, mapas interactivos y múltiples APIs para ofrecer una solución completa de principio a fin.
+</p>
+
+### 🚀 Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- Leaflet.js
+- Fetch API
+- LocalStorage
+- Geolocation API
+- n8n Cloud
+- Webhooks HTTP
+- Node.js
+- Docker
+- Google Sheets API
+- Google Drive API
+- Gmail API
+- Telegram Bot API
+- OpenRouter (LLM)
+- Arquitectura basada en eventos
+
+<hr>
+
+<h3 align="center">🏆 Hackathon - Sistema Inteligente de Gestión de Incidentes</h3>
+
+<p align="center">
+  <a href="https://github.com/JhonHenryReyesPerez/HackatonNeoMetro.git">
+    <img src="https://img.shields.io/badge/Código-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+Sistema desarrollado durante una hackathon para el reporte, clasificación y gestión inteligente de incidentes ciudadanos. El proyecto integra automatización, inteligencia artificial, geolocalización, mapas interactivos y múltiples servicios externos para ofrecer una solución completa de principio a fin.
+</p>
+
+### 🚀 Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- Fetch API
+- LocalStorage
+- Geolocation API
+- Leaflet.js
+- n8n Cloud
+- Webhooks HTTP
+- Google Sheets API
+- Gmail API
+- Telegram Bot API
+- Integración de LLMs
+- Automatización de procesos
+- Arquitectura basada en eventos
+
+<hr>
 
 <h3 align="center">📊 Perfil GitHub</h3>
 
