@@ -41,7 +41,7 @@ Seguir creciendo como desarrollador, fortalecer mis bases en programación y con
 
 <h3 align="center">Tecnologías que conozco 👨🏻‍💻</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,docker,linux,mysql,py,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,linux,mysql,py,vscode" />
 </p>
 
 <p align="center">
@@ -165,6 +165,21 @@ Sistema desarrollado durante una hackathon para el reporte, clasificación y ges
 - Integración de LLMs
 - Automatización de procesos
 - Arquitectura basada en eventos
+
+<hr>
+
+
+<h3 align="center">🗄️ Proyecto MySQL — Sistema de Gestión de Coworking</h3>
+
+<p align="center">
+  <a href="https://github.com/SebbsAL/Proyecto-MySQL.git">
+    <img src="https://img.shields.io/badge/Código-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub" />
+  </a>
+</p>
+
+<p align="center">
+Base de datos relacional completa para la gestión integral de un ecosistema de coworking. Incluye administración de clientes, membresías, reservas de espacios sin solapamiento, ciclo de facturación automático, control de accesos físicos y más de 20 triggers y eventos programados que automatizan las reglas del negocio sin intervención manual del backend.
+</p>
 
 <hr>
 
