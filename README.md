@@ -16,9 +16,7 @@
 
 Me gusta entender la lógica detrás de los problemas y convertir ideas en soluciones mediante la programación. Aprendo haciendo, aceptando críticas constructivas y mejorando con cada proyecto, mientras sigo fortaleciendo mis bases y construyendo soluciones cada vez más sólidas y útiles.
 
-## Tecnologías
-
-**🛠️ Stack tecnológico**
+## 🛠️ Stack tecnológico
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
