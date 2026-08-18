@@ -1,16 +1,4 @@
 <h1 align="center">Jhon Reyes</h1>
-<p align="center">Estudiante de desarrollo de software</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhon-reyes-6b76b63aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jhonrysprzhh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## Sobre mí
 
@@ -96,5 +84,18 @@ Base de datos relacional para la gestión de un coworking: clientes, membresías
 </p>
 
 ---
+<h3 align="center">Contáctame </h3>
 
-<p align="center"><sub>Última actualización: 12/05/2026</sub></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhon-reyes-6b76b63aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jhonrysprzhh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+
+<p align="center"><sub>Última actualización: 17/08/2026</sub></p>
