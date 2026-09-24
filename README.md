@@ -74,6 +74,13 @@ Base de datos relacional para la gestión de un coworking: clientes, membresías
 - **Stack:** MySQL
 - **Repositorio:** [Proyecto-MySQL](https://github.com/SebbsAL/Proyecto-MySQL.git)
 
+### Sistema de Gestión de Flotas y Rutas — RapidExpress
+Sistema backend desarrollado en Java para gestionar las operaciones logísticas de una empresa de mensajería. Permite administrar vehículos, conductores, paquetes, rutas y mantenimientos, aplicando arquitectura MVC y persistencia de datos con MySQL. Incluye control de estados, validaciones de capacidad de carga, seguimiento de entregas, reportes operativos y registro de auditoría.
+
+- **Stack:** Java, MySQL, Maven, Git
+- **Arquitectura:** MVC
+- **Repositorio:** [RapidExpress](https://github.com/SebbsAL/RapidExpress.git)
+
 ---
 
 ## Estadísticas
