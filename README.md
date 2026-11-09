@@ -34,54 +34,72 @@ Me gusta entender la lógica detrás de los problemas y convertir ideas en soluc
 
 ---
 
+
 ## Proyectos destacados
 
-### Proyecto en Python
-Ejercicios y estructuras básicas para practicar lógica de programación en Python.
+### CampusDesk — Sistema de Gestión de Soporte Técnico
 
-- **Stack:** Python
-- **Repositorio:** [Proyecto_Python_ReyesJhon](https://github.com/JhonHenryReyesPerez/Proyecto_Python_ReyesJhon)
+Aplicación web para la gestión de incidencias tecnológicas, con autenticación JWT, autorización basada en roles y seguimiento del ciclo de vida de los tickets. Permite administrar solicitudes, asignar técnicos, registrar comentarios e historiales de cambios y consultar indicadores mediante un dashboard. Desarrollada con arquitectura por capas, API REST y persistencia de datos mediante JPA.
 
-### Tienda de música (HTML & CSS)
-Maquetación responsive de una tienda de música con sistema de álbumes, reproductor de audio y carrito de compras.
-
-- **Stack:** HTML, CSS
-- **Repositorio:** [los-psicoactivos-sounds](https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds)
-- **Demo:** [musicstream-jhon.vercel.app](https://musicstream-jhon.vercel.app/)
-
-### Gestión de Proyectos de Construcción
-Plataforma web para el seguimiento de personal, hitos, actividades y cronogramas de proyectos de construcción, con interfaz basada en Glassmorphism.
-
-- **Stack:** JavaScript, HTML, CSS
-- **Repositorio:** [Proyecto-JS](https://github.com/JhonHenryReyesPerez/Proyecto-JS)
-- **Demo:** [proyecto-js-phi.vercel.app](https://proyecto-js-phi.vercel.app/)
-
-### SmartCity Fix — Plataforma de reportes ciudadanos
-Proyecto de hackathon para reportar, clasificar y hacer seguimiento a incidentes urbanos. Combina mapas interactivos, automatización de flujos con n8n e integración con varias APIs para cubrir el proceso completo, desde el reporte hasta la notificación.
-
-- **Stack:** JavaScript, Leaflet.js, Node.js, Docker, n8n, Google Sheets/Drive/Gmail API, Telegram Bot API, OpenRouter
-- **Repositorio:** [Proyecto-N8N](https://github.com/SebbsAL/Proyecto-N8N.git)
-
-### Sistema Inteligente de Gestión de Incidentes (Hackathon NeoMetro)
-Sistema para el reporte, clasificación y gestión de incidentes ciudadanos, con geolocalización, mapas interactivos y notificaciones automatizadas.
-
-- **Stack:** JavaScript, Leaflet.js, n8n, Google Sheets API, Telegram Bot API, LLMs
-- **Repositorio:** [HackatonNeoMetro](https://github.com/JhonHenryReyesPerez/HackatonNeoMetro.git)
-
-### Sistema de Gestión de Coworking (MySQL)
-Base de datos relacional para la gestión de un coworking: clientes, membresías, reservas sin solapamiento, facturación automática y control de accesos, con más de 20 triggers y eventos programados.
-
-- **Stack:** MySQL
-- **Repositorio:** [Proyecto-MySQL](https://github.com/SebbsAL/Proyecto-MySQL.git)
+- **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Spring Data JPA, JavaScript, HTML, CSS
+- **Arquitectura:** Arquitectura por capas y API REST
+- **Herramientas:** Swagger, Maven, Git
+- **Repositorio:** [CampusDesk](https://github.com/JhonHenryReyesPerez/CAMPUSDESK.git)
 
 ### Sistema de Gestión de Flotas y Rutas — RapidExpress
+
 Sistema backend desarrollado en Java para gestionar las operaciones logísticas de una empresa de mensajería. Permite administrar vehículos, conductores, paquetes, rutas y mantenimientos, aplicando arquitectura MVC y persistencia de datos con MySQL. Incluye control de estados, validaciones de capacidad de carga, seguimiento de entregas, reportes operativos y registro de auditoría.
 
 - **Stack:** Java, MySQL, Maven, Git
 - **Arquitectura:** MVC
 - **Repositorio:** [RapidExpress](https://github.com/SebbsAL/RapidExpress.git)
 
+### SmartCity Fix — Plataforma de reportes ciudadanos
+
+Proyecto de hackathon para reportar, clasificar y hacer seguimiento a incidentes urbanos. Combina mapas interactivos, automatización de flujos con n8n e integración con varias APIs para cubrir el proceso completo, desde el reporte hasta la notificación.
+
+- **Stack:** JavaScript, Leaflet.js, Node.js, Docker, n8n, Google Sheets/Drive/Gmail API, Telegram Bot API, OpenRouter
+- **Repositorio:** [Proyecto-N8N](https://github.com/SebbsAL/Proyecto-N8N.git)
+
+### Sistema de Gestión de Coworking (MySQL)
+
+Base de datos relacional para la gestión de un coworking: clientes, membresías, reservas sin solapamiento, facturación automática y control de accesos, con más de 20 triggers y eventos programados.
+
+- **Stack:** MySQL
+- **Repositorio:** [Proyecto-MySQL](https://github.com/SebbsAL/Proyecto-MySQL.git)
+
+### Sistema Inteligente de Gestión de Incidentes (Hackathon NeoMetro)
+
+Sistema para el reporte, clasificación y gestión de incidentes ciudadanos, con geolocalización, mapas interactivos y notificaciones automatizadas.
+
+- **Stack:** JavaScript, Leaflet.js, n8n, Google Sheets API, Telegram Bot API, LLMs
+- **Repositorio:** [HackatonNeoMetro](https://github.com/JhonHenryReyesPerez/HackatonNeoMetro.git)
+
+### Gestión de Proyectos de Construcción
+
+Plataforma web para el seguimiento de personal, hitos, actividades y cronogramas de proyectos de construcción, con interfaz basada en Glassmorphism.
+
+- **Stack:** JavaScript, HTML, CSS
+- **Repositorio:** [Proyecto-JS](https://github.com/JhonHenryReyesPerez/Proyecto-JS)
+- **Demo:** [proyecto-js-phi.vercel.app](https://proyecto-js-phi.vercel.app/)
+
+### Tienda de música (HTML & CSS)
+
+Maquetación responsive de una tienda de música con sistema de álbumes, reproductor de audio y carrito de compras.
+
+- **Stack:** HTML, CSS
+- **Repositorio:** [los-psicoactivos-sounds](https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds)
+- **Demo:** [musicstream-jhon.vercel.app](https://musicstream-jhon.vercel.app/)
+
+### Proyecto en Python
+
+Ejercicios y estructuras básicas para practicar lógica de programación en Python.
+
+- **Stack:** Python
+- **Repositorio:** [Proyecto_Python_ReyesJhon](https://github.com/JhonHenryReyesPerez/Proyecto_Python_ReyesJhon)
+
 ---
+
 
 ## Estadísticas
 
@@ -105,4 +123,4 @@ Sistema backend desarrollado en Java para gestionar las operaciones logísticas 
 <hr>
 
 
-<p align="center"><sub>Última actualización: 17/08/2026</sub></p>
+<p align="center"><sub>Última actualización: 09/11/2026</sub></p>
