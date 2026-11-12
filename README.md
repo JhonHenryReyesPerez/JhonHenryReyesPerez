@@ -102,15 +102,32 @@ Aplicación web para el seguimiento de personal, actividades, hitos y cronograma
 - **[Tienda de música](https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds):** Interfaz responsive desarrollada con HTML y CSS. [Demo](https://musicstream-jhon.vercel.app/)
 - **[Proyecto Python](https://github.com/JhonHenryReyesPerez/Proyecto_Python_ReyesJhon):** Ejercicios y estructuras fundamentales de programación.
 
+
 ---
 
 <h2 align="center">Contacto</h2>
 
 <p align="center">
-  Puedes contactarme a través de LinkedIn o correo electrónico.
+  Explora mi trabajo, consulta mi hoja de vida o contáctame.
 </p>
 
 <p align="center">
+  <a href="https://jhonhenryreyesperez.github.io/PORTFOLIO/">
+    <img
+      src="https://img.shields.io/badge/Portafolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"
+      alt="Portafolio"
+      height="35"
+    />
+  </a>
+  &nbsp;
+  <a href="https://jhonhenryreyesperez.github.io/PORTFOLIO/assets/docs/CV-Jhon-Reyes.pdf">
+    <img
+      src="https://img.shields.io/badge/Hoja_de_vida-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="Hoja de vida"
+      height="35"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/jhon-reyes-6b76b63aa/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -118,7 +135,7 @@ Aplicación web para el seguimiento de personal, actividades, hitos y cronograma
       height="35"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:jhonrysprzhh@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
