@@ -57,6 +57,16 @@ Me interesa desarrollar soluciones bien estructuradas, comprender la lógica det
 
 ## Proyectos destacados
 
+
+### Synapse Support Analytics — Plataforma Inteligente de Soporte Técnico
+
+Sistema de análisis y gestión de incidentes tecnológicos que integra inteligencia artificial mediante arquitectura RAG para ofrecer asistencia basada en una base de conocimiento verificada. Incorpora indicadores calculados mediante SQL, búsqueda vectorial con Qdrant y automatización de procesos mediante n8n, integrando sus componentes a través de una API REST desarrollada con Spring Boot.
+
+- **Stack:** Java 21, Spring Boot, PostgreSQL, JavaScript, n8n, Qdrant, OpenRouter, Docker
+- **Arquitectura:** API REST, arquitectura por capas, RAG
+- **Repositorio:** [Synapse Support Analytics](https://github.com/JhonHenryReyesPerez/synapse-support-analytics)
+
+
 ### CampusDesk — Sistema de Gestión de Soporte Técnico
 
 Aplicación web para gestionar incidencias tecnológicas, con autenticación JWT, control de acceso por roles, asignación de técnicos y seguimiento de tickets. Implementa una API REST con arquitectura por capas y persistencia mediante JPA.
@@ -86,18 +96,11 @@ Base de datos relacional para administrar clientes, membresías, reservas, factu
 - **Stack:** MySQL
 - **Repositorio:** [Proyecto MySQL](https://github.com/SebbsAL/Proyecto-MySQL)
 
-### Gestión de Proyectos de Construcción
-
-Aplicación web para el seguimiento de personal, actividades, hitos y cronogramas de proyectos de construcción, con una interfaz desarrollada en JavaScript.
-
-- **Stack:** JavaScript, HTML, CSS
-- **Repositorio:** [Proyecto JS](https://github.com/JhonHenryReyesPerez/Proyecto-JS)
-- **Demo:** [Ver aplicación](https://proyecto-js-phi.vercel.app/)
-
 ---
 
 ## Otros proyectos
 
+- **[Gestión de Proyectos de Construcción](https://github.com/JhonHenryReyesPerez/Proyecto-JS):** Aplicación web para gestionar personal, actividades, hitos y cronogramas de construcción. Desarrollada con JavaScript, HTML y CSS. [Demo](https://proyecto-js-phi.vercel.app/)
 - **[Hackathon NeoMetro](https://github.com/JhonHenryReyesPerez/HackatonNeoMetro):** Gestión de incidentes ciudadanos mediante mapas, automatización e integración de APIs.
 - **[Tienda de música](https://github.com/JhonHenryReyesPerez/los-psicoactivos-sounds):** Interfaz responsive desarrollada con HTML y CSS. [Demo](https://musicstream-jhon.vercel.app/)
 - **[Proyecto Python](https://github.com/JhonHenryReyesPerez/Proyecto_Python_ReyesJhon):** Ejercicios y estructuras fundamentales de programación.
